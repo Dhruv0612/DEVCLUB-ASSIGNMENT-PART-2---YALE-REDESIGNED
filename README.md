@@ -13,6 +13,6 @@
 <img src="./home_page.png" width="400px" height="440px"/>          <img src="./home_page_2.png" width="400px" height="440px"/>   
 
 ### Next comes the Apply to college page. This page further has 3 links, about admissions and financing your education.
-<img src="./Apply_page.png" width="400px" height="440px"/>   
+<img src="./Apply_page.png" width="400px" height="380px"/>   
 
 
