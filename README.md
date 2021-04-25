@@ -11,6 +11,6 @@
 
 ### Shown below is the home page, where the YALE icon has a beautiful changing background with each page swap. The home page also has a menu on the top-right corner to navigate through the website. Also present, is a quick links option on the right edge of the window.
 <img src="./home_page.png" width="500px" height="430px"/>   
-<img src="./home_page_1.png" width="500px" height="430px"/>   
+<img src="./home_page_2.png" width="500px" height="430px"/>   
 
 
