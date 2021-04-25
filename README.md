@@ -10,7 +10,9 @@
 <img src="./flow_chart.png" width="400px" height="345px"/>   
 
 ### Shown below is the home page, where the YALE icon has a beautiful changing background with each page swap. The home page also has a menu on the top-right corner to navigate through the website. Also present, is a quick links option on the right edge of the window.
-<img src="./home_page.png" width="400px" height="440px"/>   <img src="./home_page_2.png" width="400px" height="440px"/>   
+<img src="./home_page.png" width="400px" height="440px"/>          <img src="./home_page_2.png" width="400px" height="440px"/>   
 
+### Next comes the Apply to college page. This page further has 3 links, about admissions and financing your education.
+<img src="./Apply_page.png" width="400px" height="440px"/>   
 
 
