@@ -16,6 +16,6 @@
 <img src="./Apply_page.png" width="400px" height="345px"/>   
 
 ### Moving on, we see the exhibitions page which has a piece of art on exhibition, along with the available time slots for posting up your art on the exhibition page.
-<img src="./Exhibitions_page.png" width="400px" height="345px"/>   
+<img src="./Exhibitions_page.PNG" width="400px" height="345px"/>   
 
 
