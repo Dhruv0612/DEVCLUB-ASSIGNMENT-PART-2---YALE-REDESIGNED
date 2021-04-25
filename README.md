@@ -18,4 +18,8 @@
 ### Moving on, we see the exhibitions page which has a piece of art on exhibition, along with the available time slots for posting up your art on the exhibition page.
 <img src="./Exhibitions_page.PNG" width="400px" height="345px"/>   
 
+### No website is complete without a Visitor Login page. The Visitor Login landing page is for people who don't have a Yale NetID. If anyone has a Yale NetID,  they are supposed to click on "Click Here" which takes them to another page for users who have a present Yale NetID. Users can move back and forth between these two login pages.
+<img src="./visitor_login_1.png" width="400px" height="345px"/>   <img src="./visitor_login_2.png" width="400px" height="345px"/>   
+
+
 
