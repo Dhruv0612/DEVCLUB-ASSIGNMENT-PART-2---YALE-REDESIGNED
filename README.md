@@ -15,4 +15,6 @@
 ### Next comes the Apply to college page. This page further has 3 links, about admissions and financing your education.
 <img src="./Apply_page.png" width="400px" height="350px"/>   
 
+### Moving on, we see the exhibitions page which has a piece of art on exhibition, along with the available time slots for posting up your art on the exhibition page.
+
 
